@@ -2,10 +2,7 @@
 
 FlameThrower is a game built using the Macroquad Rust API. It leverages Macroquad's capabilities for particle physics to deliver an engaging gaming experience. Your mission is to shoot crabs using a cannon and win bounties!
 
-https://github.com/user-attachments/assets/a5b53103-64cb-489b-80d4-aa386ca49fcb
-
-
-
+https://github.com/user-attachments/assets/89cd6c39-7f0b-43e0-9bb9-448ff2f6d044
 
 ## Getting Started
 
